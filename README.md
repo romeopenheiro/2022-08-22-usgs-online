@@ -1,3 +1,5 @@
+Online Software Carpentry (Shell, Git, Plotting and Programming in Python) workshop on August 22-24
+
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
 # The Carpentries Workshop Template
