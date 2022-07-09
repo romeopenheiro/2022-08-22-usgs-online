@@ -1,7 +1,5 @@
 # Online Software Carpentry (Shell, Git, Plotting and Programming in Python) workshop
 
-Workshop website. 
-
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://romeopenheiro.github.io/2022-08-22-usgs-online/)
 
 ## Getting and Giving Help
